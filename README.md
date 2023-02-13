@@ -14,7 +14,7 @@ How to Use Tigereum
 Using Tigereum is easy! To get started, simply download a Tigereum wallet and follow the instructions to set up your account. Once you have a wallet, you can send and receive payments, store your TRM coins, and participate in the Tigereum network.
 
 Mining Tigereum
-Mining is the process of verifying transactions on the Tigereum network and adding them to the blockchain. In return for your work, you will receive rewards in the form of TIG coins. To mine Tigereum, you will need a computer with a suitable graphics card and the necessary software.
+Mining is the process of verifying transactions on the Tigereum network and adding them to the blockchain. In return for your work, you will receive rewards in the form of TRM coins. To mine Tigereum, you will need a computer with a suitable graphics card and the necessary software.
 
 Supporting Tigereum
 Tigereum is an open-source project, and we welcome contributions from the community. Whether you're a developer, designer, marketer, or just a passionate user, there are many ways to get involved and support the project.
