@@ -11,7 +11,7 @@ Secure: Tigereum uses the SHA-256 hashing algorithm to secure its blockchain and
 User-friendly: Tigereum is designed to be easy to use, with a simple and intuitive user interface that makes it easy to send and receive payments. Whether you're a seasoned cryptocurrency user or new to the world of digital currencies, Tigereum is the perfect choice.
 
 How to Use Tigereum
-Using Tigereum is easy! To get started, simply download a Tigereum wallet and follow the instructions to set up your account. Once you have a wallet, you can send and receive payments, store your TIG coins, and participate in the Tigereum network.
+Using Tigereum is easy! To get started, simply download a Tigereum wallet and follow the instructions to set up your account. Once you have a wallet, you can send and receive payments, store your TRM coins, and participate in the Tigereum network.
 
 Mining Tigereum
 Mining is the process of verifying transactions on the Tigereum network and adding them to the blockchain. In return for your work, you will receive rewards in the form of TIG coins. To mine Tigereum, you will need a computer with a suitable graphics card and the necessary software.
