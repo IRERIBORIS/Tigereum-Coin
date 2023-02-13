@@ -1,85 +1,22 @@
-Litecoin Core integration/staging tree
-=====================================
+Tigereum (TRM)
+Welcome to Tigereum, a decentralized, peer-to-peer cryptocurrency that has been forked from the Litecoin codebase. The goal of Tigereum is to provide a fast, secure, and user-friendly digital currency that is accessible to people all over the world.
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
+Key Features of Tigereum
+Decentralized: Tigereum is a decentralized cryptocurrency, meaning that it is not controlled by any central authority or financial institution. This helps to ensure that your money is secure and that your privacy is protected.
 
-https://litecoin.org
+Fast Transactions: Tigereum has been designed to be fast, with transactions confirmed in just a few minutes. This makes it ideal for everyday use, whether you're sending payments to friends and family or paying for goods and services online.
 
-What is Litecoin?
-----------------
+Secure: Tigereum uses the SHA-256 hashing algorithm to secure its blockchain and ensure that transactions are validated in a timely and secure manner. This makes it resistant to attacks and helps to keep your funds safe.
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
-software which enables the use of this currency.
+User-friendly: Tigereum is designed to be easy to use, with a simple and intuitive user interface that makes it easy to send and receive payments. Whether you're a seasoned cryptocurrency user or new to the world of digital currencies, Tigereum is the perfect choice.
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+How to Use Tigereum
+Using Tigereum is easy! To get started, simply download a Tigereum wallet and follow the instructions to set up your account. Once you have a wallet, you can send and receive payments, store your TIG coins, and participate in the Tigereum network.
 
-License
--------
+Mining Tigereum
+Mining is the process of verifying transactions on the Tigereum network and adding them to the blockchain. In return for your work, you will receive rewards in the form of TIG coins. To mine Tigereum, you will need a computer with a suitable graphics card and the necessary software.
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
+Supporting Tigereum
+Tigereum is an open-source project, and we welcome contributions from the community. Whether you're a developer, designer, marketer, or just a passionate user, there are many ways to get involved and support the project.
 
-Development Process
--------------------
-
-The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
-regularly from release branches to indicate new official, stable release versions of Litecoin Core.
-
-The https://github.com/litecoin-project/gui repository is used exclusively for the
-development of the GUI. Its master branch is identical in all monotree
-repositories. Release branches and tags do not exist, so please do not fork
-that repository unless it is for development reasons.
-
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
-and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
-
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #litecoin-dev.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
-
-There are also [regression and integration tests](/test), written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
-
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and macOS, and that unit/sanity tests are run automatically.
-
-### Manual Quality Assurance (QA) Testing
-
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
-
-Translations
-------------
-
-We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Litecoin periodically.
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
+We encourage you to join the Tigereum community, spread the word about the project, and help us build a better future for digital currencies. Together, we can create a world where digital currencies are accessible, secure, and user-friendly for everyone.
